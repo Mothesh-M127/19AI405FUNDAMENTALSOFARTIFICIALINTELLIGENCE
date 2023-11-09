@@ -104,7 +104,8 @@ F H <BR>
 
 <h3>Output</h3>
 
-![image](https://github.com/Mothesh-M127/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94170892/434771b4-bff3-42b0-be44-b4a729030392)
+![image](https://github.com/Mothesh-M127/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94170892/e2ff191a-6ad7-4d47-8d8d-eda4b8f893ad)
+
 
 <h3>Result:</h3>
 <hr>

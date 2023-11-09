@@ -104,7 +104,8 @@ F H <BR>
 
 <h3>Output</h3>
 
-![Alt text](ot1.png)
+![image](https://github.com/Mothesh-M127/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94170892/434771b4-bff3-42b0-be44-b4a729030392)
+
 <h3>Result:</h3>
 <hr>
 <p>Thus, a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
